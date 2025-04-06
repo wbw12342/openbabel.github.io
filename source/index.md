@@ -16,5 +16,6 @@ Open Babel is a chemical toolbox designed to speak the many languages of chemica
  
 docs/index
 api/index
+obabel input.sdf -O output.mol2
 ```
 
